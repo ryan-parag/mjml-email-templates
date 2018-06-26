@@ -1,0 +1,19 @@
+{
+  "name": "mjml-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.5",
+    "gulp": "^3.9.1",
+    "gulp-mjml": "^3.0.0",
+    "mjml": "^4.0.5",
+    "mjml-cli": "^4.0.5"
+  },
+  "dependencies": {}
+}
