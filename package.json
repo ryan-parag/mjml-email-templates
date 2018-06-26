@@ -11,6 +11,7 @@
   "devDependencies": {
     "browser-sync": "^2.24.5",
     "gulp": "^3.9.1",
+    "gulp-imagemin": "^4.1.0",
     "gulp-mjml": "^3.0.0",
     "mjml": "^4.0.5",
     "mjml-cli": "^4.0.5"
