@@ -39,7 +39,7 @@
     <!-- Logo -->
     <mj-section>
       <mj-column>
-        <mj-image width= "200" src="https://chargebacks911.com/assets/disputelab_logo@2x.png" />
+        <mj-image width= "200" src="https://chargebacks911.com/emails/images/disputelab_logo@2x.png" />
       </mj-column>
     </mj-section>
     <mj-wrapper border-radius="3px" padding= "0" border="1px solid #d5d5d5">
@@ -54,7 +54,7 @@
             <p class="copy-text"><strong>Donec quis semper elit</strong>, et varius libero. Nam fermentum rhoncus ullamcorper. Ut pulvinar neque id turpis bibendum, eu vehicula sem accumsan.</p>
             <p class="copy-text">Maecenas eget porta tellus. <strong>Aenean aliquet</strong> finibus velit, at efficitur diam interdum eu. Proin posuere nec est non blandit.</p>
           </mj-text>
-          <mj-image padding-bottom="0px" align="left" width="75" src="img/profile.png" />
+          <mj-image padding-bottom="0px" align="left" width="75" src="https://chargebacks911.com/emails/images/profile.png" />
           <mj-text padding-top="0px" align="left">
             <p class="copy-text"><strong>Kimi Raikkonen</strong><br><span class="small-text muted-text">Fancy Job Title</span></p>
           </mj-text>

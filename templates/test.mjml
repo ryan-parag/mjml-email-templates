@@ -36,7 +36,7 @@
     <!-- Logo -->
     <mj-section>
       <mj-column>
-        <mj-image width= "200" src="https://chargebacks911.com/assets/disputelab_logo@2x.png" />
+        <mj-image width= "200" src="https://chargebacks911.com/emails/images/disputelab_logo@2x.png" />
       </mj-column>
     </mj-section>
     <mj-wrapper border-radius="3px" padding= "0" border="1px solid #d5d5d5">

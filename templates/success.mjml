@@ -58,7 +58,7 @@
       <!-- Hero -->
       <mj-section background-color="white" border-bottom="1px solid #d5d5d5">
         <mj-column>
-          <mj-image width="150" src="img/disputelab_flag-success.png" />
+          <mj-image width="150" src="https://chargebacks911.com/emails/images/disputelab_flag-success.png" />
         </mj-column>
       </mj-section>
 
